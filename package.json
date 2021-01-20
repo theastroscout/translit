@@ -1,0 +1,26 @@
+{
+  "name": "@hqdaemon/translit",
+  "version": "1.0.0",
+  "description": "Lightweight JavaScript library for converting Cyrillic symbols to English.",
+  "main": "translit.js",
+  "scripts": {
+    "test": "node test/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqdaemon/translit.git"
+  },
+  "keywords": [
+    "translit",
+    "cyrillic"
+  ],
+  "author": {
+    "name": "HQ",
+    "url": "https://hqmode.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hqdaemon/translit/issues"
+  },
+  "homepage": "https://github.com/hqdaemon/translit#readme"
+}
